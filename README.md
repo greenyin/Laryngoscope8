@@ -8,6 +8,7 @@ The Laryngoscope8 dataset includes 3057 laryngeal images collected from head and
 Here's an example of how the data looks：
 
 ![examples](https://github.com/greenyin/Laryngoscope8/blob/master/images/image_examples.png?raw=true)
+Eight labels of Laryngoscope image: (1) Reinke‘s Edema; (2) Glottic Cancer; (3) Granuloma; (4) Vocal Cord Leukoplakia ; (5) Vocal Cord Cyst; (6) Vocal Cord Nodules; (7) Vocal Cord Polyps; (8) Normal.
 
 ## Get the data
 You can use [direct links](https://pan.baidu.com/s/14gNhmRZ4LMRlzO5KucSJRw)**(extraction password:vndd)** to download the whole data or you can download different categories of data according to the links given in the table below. 
