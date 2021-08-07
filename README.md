@@ -2,6 +2,7 @@
 [paper](https://www.sciencedirect.com/science/article/pii/S0167865521002646?via%3Dihub)
 
 ## The Laryngoscope8
+![examples](https://github.com/greenyin/Laryngoscope8/blob/master/images/image_examples.png?raw=true)
 
 The Laryngoscope8 dataset includes 3057 laryngeal images collected from head and neck surgery procedures in the department of otorhinolaryngology of the sixth medical center of PLA general hospital. A total of 1950 individuals are involved in our Laryngoscope8 dataset, from which 1297 individuals had only one laryngeal image, and the remaining 653 individuals collected two or more laryngeal images. The images in the dataset were classified into eight categories by the otolaryngologists in the hospital. The eight categories include: Reinke‘s Edema, Glottic Cancer, Granuloma, Vocal Cord Leukoplakia, Vocal Cord Cyst, Vocal Cord Nodules, Vocal Cord Polyps, and Normal. 
 
