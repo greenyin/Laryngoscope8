@@ -3,29 +3,23 @@
 
 ## The Laryngoscope8
 
-| Type  | Number |
-| ------------- | ------------- |
-|   `Reinke‘s Edema`  | 110 |
-|   `Glottic Cancer`  | 22 |
-|   `Granuloma`  | 604 |
-|   `Normal`  | 1323 |
-|   `Vocal Cord Leukoplakia`  | 191 |
-|   `Vocal Cord Cyst`  | 74 |
-|   `Vocal Cord Nodules`  | 172 |
-|   `Vocal Cord Polyps`  | 561 |
+The Laryngoscope8 dataset includes 3057 laryngeal images collected from head and neck surgery procedures in the department of otorhinolaryngology of the sixth medical center of PLA general hospital. A total of 1950 individuals are involved in our Laryngoscope8 dataset, from which 1297 individuals had only one laryngeal image, and the remaining 653 individuals collected two or more laryngeal images. The images in the dataset were classified into eight categories by the otolaryngologists in the hospital. The eight categories include: Reinke‘s Edema, Glottic Cancer, Granuloma, Vocal Cord Leukoplakia, Vocal Cord Cyst, Vocal Cord Nodules, Vocal Cord Polyps, and Normal. 
+
+Here's an example of how the data looks：
 
 
 ## Get the data
+You can use direct links to download the dataset using the extraction password. 
 
-| Type  | Download |
-| ------------- | ------------- |
-|   `Reinke‘s Edema`  | [Download]()  | 
-|   `Glottic Cancer`  | [Download]()  | 
-|   `Granuloma`  | [Download]()  | 
-|   `Normal`  | [Download]()  | 
-|   `Vocal Cord Leukoplakia`  | [Download]()  |
-|   `Vocal Cord Cyst`  | [Download]()  | 
-|   `Vocal Cord Nodules`  | [Download]()  | 
-|   `Vocal Cord Polyps`  | [Download]()  |
+| Type  | Number | Link ｜ Extraction password |
+| ------------- | ------------- |------------- |------------- |
+|   `Reinke‘s Edema`  | 110 | [Download](https://pan.baidu.com/s/1Cc0_s9cTjNShwC0bI4w_xQ)  | 7s0f |
+|   `Glottic Cancer`  | 22 |[Download](https://pan.baidu.com/s/1Ku0kvXdH90Vr0LO_59nn6w)  | n6e2|
+|   `Granuloma`  | 604 |[Download](https://pan.baidu.com/s/1GwoaHXRwE1VemDz7T8lytA)  | amoc |
+|   `Normal`  | 1323 |[Download](https://pan.baidu.com/s/1ZmSKun3fzAJrJtRc7cs5uA)  | m8b3 |
+|   `Vocal Cord Leukoplakia`  | 191 | [Download](https://pan.baidu.com/s/1LhwlGUj_RVbw0wTnZ4SiJg)  | wpsg |
+|   `Vocal Cord Cyst`  | 74 |[Download](https://pan.baidu.com/s/11weyk-R2AU7VfBuhxbYAzg)  | gwan |
+|   `Vocal Cord Nodules`  |172 | [Download](https://pan.baidu.com/s/1g8Txr5EsY4kEmGfHIWs39Q)  | 5ovk |
+|   `Vocal Cord Polyps`  | 561 |[Download](https://pan.baidu.com/s/18QJCam7tcpREXqyw5tgoRA)  | u5qw |
 
 
