@@ -12,14 +12,14 @@ Here's an example of how the data looks：
 You can use direct links to download the dataset using the extraction password. 
 
 | Type  | Number | Link ｜ Extraction password |
-| ------------- | ------------- |------------- |------------- |
-|   `Reinke‘s Edema`  | 110 | [Download](https://pan.baidu.com/s/1Cc0_s9cTjNShwC0bI4w_xQ)  | 7s0f |
-|   `Glottic Cancer`  | 22 |[Download](https://pan.baidu.com/s/1Ku0kvXdH90Vr0LO_59nn6w)  | n6e2|
-|   `Granuloma`  | 604 |[Download](https://pan.baidu.com/s/1GwoaHXRwE1VemDz7T8lytA)  | amoc |
-|   `Normal`  | 1323 |[Download](https://pan.baidu.com/s/1ZmSKun3fzAJrJtRc7cs5uA)  | m8b3 |
-|   `Vocal Cord Leukoplakia`  | 191 | [Download](https://pan.baidu.com/s/1LhwlGUj_RVbw0wTnZ4SiJg)  | wpsg |
-|   `Vocal Cord Cyst`  | 74 |[Download](https://pan.baidu.com/s/11weyk-R2AU7VfBuhxbYAzg)  | gwan |
-|   `Vocal Cord Nodules`  |172 | [Download](https://pan.baidu.com/s/1g8Txr5EsY4kEmGfHIWs39Q)  | 5ovk |
-|   `Vocal Cord Polyps`  | 561 |[Download](https://pan.baidu.com/s/18QJCam7tcpREXqyw5tgoRA)  | u5qw |
+| ------------- | ------------- | ------------- | ------------- |
+|   `Reinke‘s Edema`          | 110  | [Download](https://pan.baidu.com/s/1Cc0_s9cTjNShwC0bI4w_xQ)  | 7s0f |
+|   `Glottic Cancer`          | 22   | [Download](https://pan.baidu.com/s/1Ku0kvXdH90Vr0LO_59nn6w)  | n6e2 |
+|   `Granuloma`               | 604  | [Download](https://pan.baidu.com/s/1GwoaHXRwE1VemDz7T8lytA)  | amoc |
+|   `Normal`                  | 1323 | [Download](https://pan.baidu.com/s/1ZmSKun3fzAJrJtRc7cs5uA)  | m8b3 |
+|   `Vocal Cord Leukoplakia`  | 191  | [Download](https://pan.baidu.com/s/1LhwlGUj_RVbw0wTnZ4SiJg)  | wpsg |
+|   `Vocal Cord Cyst`         | 74   | [Download](https://pan.baidu.com/s/11weyk-R2AU7VfBuhxbYAzg)  | gwan |
+|   `Vocal Cord Nodules`      | 172  | [Download](https://pan.baidu.com/s/1g8Txr5EsY4kEmGfHIWs39Q)  | 5ovk |
+|   `Vocal Cord Polyps`       | 561  | [Download](https://pan.baidu.com/s/18QJCam7tcpREXqyw5tgoRA)  | u5qw |
 
 
