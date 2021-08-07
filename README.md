@@ -11,7 +11,7 @@ Here's an example of how the data looks：
 ## Get the data
 You can use direct links to download the dataset using the extraction password. 
 
-| Type  | Number | Link ｜ Extraction password |
+| Type  | Number | Link | Extraction password |
 | ------------- | ------------- | ------------- | ------------- |
 |   `Reinke‘s Edema`          | 110  | [Download](https://pan.baidu.com/s/1Cc0_s9cTjNShwC0bI4w_xQ)  | 7s0f |
 |   `Glottic Cancer`          | 22   | [Download](https://pan.baidu.com/s/1Ku0kvXdH90Vr0LO_59nn6w)  | n6e2 |
