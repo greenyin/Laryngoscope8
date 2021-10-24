@@ -13,18 +13,7 @@ Eight labels of Laryngoscope image: (1) Reinke‘s Edema; (2) Glottic Cancer; (3
 ## Get the data
 Clink [download](https://pan.baidu.com/s/11GnkF-jhwtMRs4s0foGrxQ)**(extraction password:dejo)** to download the whole data.
 
-/*
-*| Type  | Number | Link | Extraction password |
-*| ------------- | :-------------: | ------------- |:-------------: |
-*|   `Reinke‘s Edema`          | 110  | [Download](https://pan.baidu.com/s/1Cc0_s9cTjNShwC0bI4w_xQ)  | 7s0f |
-*|   `Glottic Cancer`          | 22   | [Download](https://pan.baidu.com/s/1Ku0kvXdH90Vr0LO_59nn6w)  | n6e2 |
-*|   `Granuloma`               | 604  | [Download](https://pan.baidu.com/s/1GwoaHXRwE1VemDz7T8lytA)  | amoc |
-*|   `Normal`                  | 1323 | [Download](https://pan.baidu.com/s/1ZmSKun3fzAJrJtRc7cs5uA)  | m8b3 |
-*|   `Vocal Cord Leukoplakia`  | 191  | [Download](https://pan.baidu.com/s/1LhwlGUj_RVbw0wTnZ4SiJg)  | wpsg |
-*|   `Vocal Cord Cyst`         | 74   | [Download](https://pan.baidu.com/s/11weyk-R2AU7VfBuhxbYAzg)  | gwan |
-*|   `Vocal Cord Nodules`      | 172  | [Download](https://pan.baidu.com/s/1g8Txr5EsY4kEmGfHIWs39Q)  | 5ovk |
-*|   `Vocal Cord Polyps`       | 561  | [Download](https://pan.baidu.com/s/18QJCam7tcpREXqyw5tgoRA)  | u5qw |
-*/
+
 ## Citation
 ```
 @article{YIN2021207,
