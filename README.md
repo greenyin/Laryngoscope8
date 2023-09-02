@@ -11,7 +11,7 @@ Here's an example of how the data looks：
 Eight labels of Laryngoscope image: (1) Reinke‘s Edema; (2) Glottic Cancer; (3) Granuloma; (4) Vocal Cord Leukoplakia ; (5) Vocal Cord Cyst; (6) Vocal Cord Nodules; (7) Vocal Cord Polyps; (8) Normal.
 
 ## Get the data
-Clink [download](https://pan.baidu.com/s/11GnkF-jhwtMRs4s0foGrxQ)**(extraction password:dejo)** to download the whole data.
+Clink [download](https://pan.baidu.com/s/1NqIcS7-s1dGmTfasCMYJVg?pwd=soda)**(extraction password:soda)** to download the whole data.
 
 
 ## Citation
